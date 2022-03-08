@@ -5,7 +5,7 @@
 
 - 😀I'm a Front-end Web Developper Student with a passion for making contributing to open source more accessible.
 - 🖥️ Creating technology to uplift people and build a beautiful community. 
-- 🛰️ Some technologies I enjoy working with include HTML, CSS, Javascript (JavaScript, APIs + Markup) and QA. 
+- 🛰️ Some technologies I enjoy working with include HTML, CSS, JavaScript (JavaScript, APIs + Markup) and QA. 
 - 🚴 In 2021, I started a professional internship at MICROVERSE.
 
 
