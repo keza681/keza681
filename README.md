@@ -1,4 +1,4 @@
-# Hello Devs I'm Linda keza 👋🏾 👩🏾‍💻
+# Hello Devs, I'm Linda keza 👋🏾 👩🏾‍💻
 
 <img align="right" border-radius="50" width="150" height="150" src="https://ca.slack-edge.com/T47CT8XPG-U02Q517JKPU-e2129f8a5356-512" alt="Image of Linda Keza">
 
