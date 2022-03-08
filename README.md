@@ -15,9 +15,11 @@
 
 
  
-###  Tech Stack:
+ ###  Tech Stack:
 
+<p align="center">
 ReactJS, JavaScript, TypeScript, NodeJS, ExpressJS, MySQL, AWS 
+ </p>
  
 ### **Languages and Tools:**
 
