@@ -3,7 +3,7 @@
 <img align="right" border-radius="50" width="150" height="150" src="https://ca.slack-edge.com/T47CT8XPG-U02Q517JKPU-e2129f8a5356-512" alt="Image of Linda Keza">
 
 
-- 😀I'm a Front-end Web Developper Student with a passion for making contributing to open source more accessible.
+- 😀I'm a Full-stack Web Developper Student with a passion for making contributing to open source more accessible.
 - 🖥️ Creating technology to uplift people and build a beautiful community. 
 - 🚴 In 2022, I started a professional internship at MICROVERSE.
 
