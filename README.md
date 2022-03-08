@@ -17,22 +17,22 @@
  
  ###  Tech Stack:
 
-<p align="center">
+<p align="left">
 ReactJS, JavaScript, TypeScript, NodeJS, ExpressJS, MySQL, AWS 
  </p>
  
-### **Languages and Tools:**
+## **Languages and Tools:**
 
-<p align="left">
+<p align="center">
 
-  <div align="left">
+  <div align="center">
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
   </div>
   </p>
 
-<div align= "right">
-<p align="right">
+<div align= "left">
+<p align="left">
   
   <img src="https://github-readme-stats.vercel.app/api?username=keza681&count_private=true&show_icons=true&theme=dracula&line_height=33">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keza681&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
