@@ -5,8 +5,7 @@
 
 - 😀I'm a Front-end Web Developper Student with a passion for making contributing to open source more accessible.
 - 🖥️ Creating technology to uplift people and build a beautiful community. 
-- 🛰️ Some technologies I enjoy working with include HTML, CSS, JavaScript (JavaScript, APIs + Markup) and QA. 
-- 🚴 In 2021, I started a professional internship at MICROVERSE.
+- 🚴 In 2022, I started a professional internship at MICROVERSE.
 
 
 ## Find me around the web 🌎: <a href="https://github.com/keza681"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
@@ -16,7 +15,9 @@
 
 
  
- 
+###  Tech Stack:
+
+ReactJS, JavaScript, TypeScript, NodeJS, ExpressJS, MySQL, AWS 
  
 ### **Languages and Tools:**
 
@@ -28,6 +29,17 @@
   </div>
   </p>
 
+<div align= "right">
+<p align="right">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=keza681&count_private=true&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keza681&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
+</div>
 
+</p>
+
+  <p align="center">
+    Show ❤️ by starring and forking repositories you find good!
+  </p>
 
 
