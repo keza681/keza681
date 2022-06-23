@@ -40,6 +40,9 @@ ReactJS, JavaScript, TypeScript, NodeJS, ExpressJS, MySQL, AWS
 
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keza681&label=Profile%20views&color=0e75b6&style=flat" alt="keza681" /> </p>
+
+
   <p align="center">
     Show ❤️ by starring and forking repositories you find good!
   </p>
