@@ -11,7 +11,8 @@
 ## Find me around the web 🌎: <a href="https://github.com/keza681"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Visit my profile <a href="https://github.com/keza681">GITHUB</a> 📹 
 - Contact me via <a href="lindakeza19@gmail.com"> Email</a>✍🏾
-- Sharing updates  <a href="https://www.linkedin.com/in/linda-keza/">LinkedIn</a> 💼
+- Sharing updates  <a href="https://www.linkedin.com/in/linda-keza/">LinkedIn</a> 💼 
+  <img align="right" src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="70" height="70" />
 
 
  
@@ -46,6 +47,8 @@ ReactJS, TypeScript, NodeJS, ExpressJS, MySQL, AWS
 
   <p align="center">
     Show ❤️ by starring and forking repositories you find good!
+      <img align="right" src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="70" height="70" />
+
   </p>
 
 
