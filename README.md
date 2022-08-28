@@ -12,7 +12,6 @@
 - Visit my profile <a href="https://github.com/keza681">GITHUB</a> 📹 
 - Contact me via <a href="lindakeza19@gmail.com"> Email</a>✍🏾
 - Sharing updates  <a href="https://www.linkedin.com/in/linda-keza/">LinkedIn</a> 💼 
-  <img align="right" src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="70" height="70" />
 
 
  
@@ -36,8 +35,8 @@ ReactJS, TypeScript, NodeJS, ExpressJS, MySQL, AWS
 <div align= "left">
 <p align="left">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=keza681&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keza681&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
+  <img src="https://github-readme-stats.vercel.app/api?username=keza681&count_private=true&show_icons=true&theme=dracula&line_height=15">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keza681&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=5">
 </div>
 
 </p>
