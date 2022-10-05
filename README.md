@@ -5,7 +5,7 @@
 
 - 😀I'm a Full-stack Web Developper Student with a passion for making contributing to open source more accessible.
 - 🖥️ Creating technology to uplift people and build a beautiful community. 
-- 🚴 In 2022, I started a professional internship at MICROVERSE.
+- 🚴 In 2022, I started a professional internship.
 
 
 ## Find me around the web 🌎: <a href="https://github.com/keza681"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
